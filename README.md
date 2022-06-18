@@ -7,12 +7,16 @@ I'm a web developer based in Tokyo.
 Love to develop simple, user-friendly and beautiful websites and applications.
 
 # Github
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tomoya-Sonok&theme=vue)
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tomoya-Sonok&show_icons=true)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoya-Sonok&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
+<img align="left"　height="170px" src="https://github-readme-stats.vercel.app/api?username=Tomoya-Sonok&theme=solarized-light" />
+<a href=https://github.com/anuraghazra/github-readme-stats">
+</a>                                                  
+                                                      
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoya-Sonok&theme=solarized-light&hide=html,scss" />
+<a href=https://github.com/anuraghazra/github-readme-stats">
+</a>
+</p>
 
 <!-- そうま君のprofile-summary-card -->
 <!-- [![](https://raw.githubusercontent.com/SomaSekimoto/SomaSekimoto/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
