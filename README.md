@@ -1,5 +1,4 @@
 [![Twitter: Tomoya Sonok](https://img.shields.io/twitter/follow/techguy10308?style=social)](https://twitter.com/techguy10308)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Tomoya-Sonok&left_color=gray&right_color=blue)
 
 ### Hi there 👋
 
