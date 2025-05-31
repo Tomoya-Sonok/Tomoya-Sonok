@@ -1,11 +1,37 @@
+
+### <div align="center">I'm Tomoya, a full-time frontend developer  🚀</div>  
+  
+
+- 👨🏻‍💻 I’m currently working on HR-related web application for enhancement development and system maintainance  
+  
+
+- 🌱 I’m currently learning Backend (Java, Kotlin)  
+  
+
+- 🥋 I've been into Aikido (合気道) for over 3yrs  
+  
+
+- ✈️ Planning to study and work overseas down the road...   
+
+<br/>  
+
 [![Twitter: Tomoya Sonok](https://img.shields.io/twitter/follow/techguy10308?style=social)](https://twitter.com/techguy10308)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tomoya-sonokui-8080a81a9/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram)](https://www.instagram.com/tomoya1120s/) -->
 
-### Hi there 👋
 
-I'm a web developer based in Tokyo.  
-Love to develop simple, user-friendly and beautiful websites and applications.
+<br/>  
 
-# Github
+
+## My Skills (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,postgresql,mysql,supabase,firebase,github,vscode,vim,neovim,docker,discord,aws,vite" /> <br /><br />
+
+
+<br/>  
+
+
+# Github Stats / etc...
 
 <p>
 <img align="left"　height="170px" src="https://github-readme-stats.vercel.app/api?username=Tomoya-Sonok&theme=solarized-light" />
@@ -17,13 +43,7 @@ Love to develop simple, user-friendly and beautiful websites and applications.
 </a>
 </p>
 
-<!-- そうま君のprofile-summary-card -->
-<!-- [![](https://raw.githubusercontent.com/SomaSekimoto/SomaSekimoto/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/SomaSekimoto/SomaSekimoto/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/SomaSekimoto/SomaSekimoto/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/SomaSekimoto/SomaSekimoto/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
 
