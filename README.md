@@ -94,12 +94,7 @@ Selected tools & experiments. Click to view concepts.
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tomoya-Sonok&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomoya-Sonok&hide_border=true&background=0D1117&stroke=A78BFA&ring=22D3EE&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoya-Sonok&layout=compact&hide=html,scss&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 </p>
 
 <p align="center">
