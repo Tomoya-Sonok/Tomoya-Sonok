@@ -13,6 +13,16 @@
 
 ---
 
+<!-- ===== About Me ===== -->
+
+### ☕ About Me
+
+- **Interests:** Aikido (合気道, 3+ yrs), Music, Gaming, etc...
+- **MBTI:** INTJ-T
+- **Currently:** Frontend as my core strength, broadening into Backend with Python & Kotlin
+
+---
+
 <!-- ===== Professional Experience（シンプルな箇条書き） ===== -->
 
 ### 💼 Professional Experience
@@ -100,15 +110,6 @@ Selected tools & experiments. Click to view concepts.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomoya-Sonok&bg_color=0D1117&color=A78BFA&line=22D3EE&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
-
----
-
-<!-- ===== About Me + SNS ===== -->
-
-### ☕ About Me
-
-- **Interests:** Aikido (合気道, 3+ yrs), Music, Gaming, etc...
-- **Currently:** Frontend as my core strength, broadening into Backend with Python & Kotlin
 
 <!-- ===== Footer（波形） ===== -->
 <p align="center">
