@@ -35,16 +35,18 @@ Selected tools & experiments. Click to view concepts.
   <blockquote>
     <p>A digital training journal crafted specifically for Aikido practitioners.<br>
     <sub>合気道に特化したデジタル稽古日誌</sub></p>
-    <strong>Tech:</strong> TypeScript, Next.js, Hono, Vite, Supabase
+    <strong>Tech:</strong> TypeScript, Next.js, Hono, Vite, Supabase<br>
+    <strong>URL:</strong> <a href="https://www.aikinote.com">https://www.aikinote.com</a>
   </blockquote>
 </details>
 
 <details>
-  <summary><b>AikiBoard</b></summary>
+  <summary><b>AikiBoard</b> <img src="https://img.shields.io/badge/WIP-A78BFA?style=flat-square&logoColor=white" align="center" /></summary>
   <blockquote>
     <p>A dojo-management SaaS for administrators running Aikido dojos and communities.<br>
     <sub>合気道の道場・会などのコミュニティを運営する管理者向けの道場管理SaaS</sub></p>
-    <strong>Tech:</strong> TBD (almost the same stack as AikiNote, but with a twist towards real-time collaboration and interactive features)
+    <strong>Tech:</strong> TBD (almost the same stack as AikiNote, but with a twist towards real-time collaboration and interactive features)<br>
+    <strong>URL:</strong> TBD
   </blockquote>
 </details>
 
@@ -112,11 +114,6 @@ Selected tools & experiments. Click to view concepts.
 
 - **Interests:** Aikido (合気道, 3+ yrs), Music, Gaming, etc...
 - **Currently:** Frontend as my core strength, broadening into Backend with Python & Kotlin
-
-<p align="left">
-  <a href="https://twitter.com/techguy10308"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/tomoya-sonokui-8080a81a9/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-</p>
 
 <!-- ===== Footer（波形） ===== -->
 <p align="center">
