@@ -5,7 +5,7 @@
 
 <!-- ===== Typing SVG（実力者・モダン志向） + コーディング GIF ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Web+Engineer+based+in+Japan;Crafting+modern+UI%2FUX+%26+Performance;Frontend-focused%2C+going+Full-stack;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Web+Engineer+based+in+Japan;Crafting+modern+UI%2FUX+%26+Performance;Frontend-focused%2C+going+Full-stack" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600" />
@@ -102,10 +102,6 @@ Selected tools & experiments. Click to view concepts.
 <!-- ===== GitHub Activity（フルセット / パープル・シアン統一） ===== -->
 
 ### 📊 GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomoya-Sonok&hide_border=true&background=0D1117&stroke=A78BFA&ring=22D3EE&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomoya-Sonok&bg_color=0D1117&color=A78BFA&line=22D3EE&point=ffffff&area=true&hide_border=true" width="100%" />
